@@ -28,6 +28,9 @@
 - [Water Heater Installation Milton for Your Home](https://local-business-guides.github.io/animo-brothers-plumbing-milton/water-heater-installation-milton/): Water Heater Installation Milton with Animo Brothers Plumbing helps you plan a well-fitted home upgrade. Call today to talk through your needs.
 - [Leak Repair Milton for Your Home](https://local-business-guides.github.io/animo-brothers-plumbing-milton/leak-repair-milton/): Leak Repair Milton from Animo Brothers Plumbing helps address plumbing leaks at home. Call today for help, including 24/7/365 emergency service.
 
+## Newsroom
+- [Animo Brothers Plumbing Shares Milton Plumbing Guide and Audio](https://local-business-guides.github.io/animo-brothers-plumbing-milton/news/2026-11-12-animo-brothers-plumbing-shares-milton-plumbing/): Animo Brothers Plumbing published a guide for Milton residents, with related video, podcast and audio versions available on multiple platforms. (2026-11-12)
+
 ## Pages
 - [Plumber in Milton, Massachusetts](https://local-business-guides.github.io/animo-brothers-plumbing-milton/): Get dependable plumbing help and residential service for your home in Milton, Massachusetts. Call +1617-890-7100.
 - [About Animo Brothers Plumbing](https://local-business-guides.github.io/animo-brothers-plumbing-milton/about/): About Animo Brothers Plumbing, Milton.
@@ -35,4 +38,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/animo-brothers-plumbing-milton/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/animo-brothers-plumbing-milton/news/rss.xml)
 - [Main resource site](https://animo-brothers-plumbing-milton.localbusinesses1.chatgpt.site)
